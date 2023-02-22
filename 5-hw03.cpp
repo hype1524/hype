@@ -18,7 +18,6 @@ void bis(int* a, int n)
 		}
 		a[i] = n;
 	}
-	return a;
 }
 int main()
 {
